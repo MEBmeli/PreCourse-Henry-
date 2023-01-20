@@ -1,2 +1,2 @@
 # PreCourse-Henry-
-Este es un repositorio de prueba del modulo 2 
+Este es una prueba de como clonar desde Git a mi repositorio (prueba del modulo 2 ) 
